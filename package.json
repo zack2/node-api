@@ -1,0 +1,21 @@
+{
+  "name": "com.olivierloukombo.nodeapi",
+  "version": "1.0.0",
+  "description": "A simple CRUD rest API in JS using Node.js, Express, Sequelize, Postgres, Docker, Docker compose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "NODE.js",
+    "API"
+  ],
+  "author": "Olivier Loukombo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.9.0",
+    "sequelize": "^6.28.0"
+  }
+}
